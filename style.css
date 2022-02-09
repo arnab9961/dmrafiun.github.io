@@ -1,0 +1,23 @@
+body{
+    min-height: 200vh;
+   
+    justify-content: center;
+    background-image: url(image_ar.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.circle{
+
+   width: 300px;
+   margin-left: 75%;
+   clip-path: circle();
+    
+}
+#hjbj{
+    background: rgba(86, 74, 90, 0.274);
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+
